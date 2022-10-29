@@ -3,4 +3,5 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "Welcome to Young Minds"
-echo "hello this is new branch"
+echo "this is my second branch"
+echo "that was the first branch"
